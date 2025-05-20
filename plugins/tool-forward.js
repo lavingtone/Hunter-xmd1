@@ -1,4 +1,4 @@
-// Jawad TechX - KHAN MD 
+// Obed TechX - HUNTER-XMD 
 // Dont Remove Credit From File 
 
 const { cmd } = require("../command");
