@@ -40,8 +40,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "KHAN-MD 🥀",
-            body: config.DESCRIPTION || "POWERED BY JAWAD TECHX 🤌💗",
+            title: config.BOT_NAME || "HUNTER XMD 🥀",
+            body: config.DESCRIPTION || "POWERED BY OBED TECHX 🤌💗",
             mediaType: 1,
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
