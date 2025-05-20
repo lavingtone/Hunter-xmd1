@@ -46,7 +46,7 @@ cmd({
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
             mediaUrl: "https://files.catbox.moe/l2t3e0.jpg", // Static image URL
-            sourceUrl: "https://wa.me/message/INB2QVGXHQREO1",
+            sourceUrl: "https://wa.me/254701082940",
             showAdAttribution: true
           }
         }
